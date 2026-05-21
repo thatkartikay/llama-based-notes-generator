@@ -1,0 +1,10 @@
+# No required third-party Python packages.
+#
+# The app uses only the Python standard library and talks to a local Ollama
+# server for Llama generation.
+#
+# Optional:
+# youtube-transcript-api>=0.6.2
+#
+# If installed, YouTube caption fetching is enabled. Without it, paste the
+# lecture transcript manually.
